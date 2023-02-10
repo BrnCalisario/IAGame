@@ -5,7 +5,7 @@ using System.Collections.Generic;
 public class Noia : Player
 {
     public Noia(PointF location) :
-        base(location, Color.Green, Color.LightSeaGreen, "Nóia")
+        base(location, Color.Green, Color.LightSeaGreen, "Maluco")
     { }
 
     int i = 0;
